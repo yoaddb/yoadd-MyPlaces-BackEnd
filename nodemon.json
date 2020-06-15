@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "Yoadd",
+    "DB_PASSWORD": "Ug0FteKwXGB8Kuni",
+    "DB_NAME": "mern",
+    "GOOGLE_API_KEY": "AIzaSyAWYm8nfGSR5SJwUrdXsRNkeNaY5el7ttc",
+    "JWT_KEY": "super_awesome_secret"
+  }
+}
